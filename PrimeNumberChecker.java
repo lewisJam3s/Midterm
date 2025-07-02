@@ -1,10 +1,6 @@
 public class PrimeNumberChecker {
     public static void main(String[] args) {
-<<<<<<< HEAD
         int number = 98; // Hardcoded input number
-=======
-        int number = 41; // Hardcoded input number
->>>>>>> fef8bbae95ff46976a42e1cd3c61ef224293d829
 
         boolean isPrime = true;
 
